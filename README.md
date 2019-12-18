@@ -1,5 +1,5 @@
 # React Site
-Um projeto simple de teste de react com next.js
+Um projeto simples de teste de react com next.js
 
 ## Instalar dependências
 
