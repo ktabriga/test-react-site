@@ -1,0 +1,18 @@
+{
+  "name": "react-server-side",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "export": "next build && next export -o build"
+  },
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1",
+    "next": "^9.1.6",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
